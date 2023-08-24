@@ -2,11 +2,10 @@ package org.example;
 
 import org.junit.jupiter.api.Test;
 import org.junit.platform.commons.util.PackageUtils;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 class MainTest {
-
+    @Test
     void return5_whenSumGets3And2() {
         //GIVEN
         int a = 3;
