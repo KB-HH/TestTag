@@ -2,9 +2,6 @@ package org.example;
 
 public class Main {
 
-    public static void Main(String[] args) {
-
-    }
     public static int calcSum(int a, int b) {
         int sum = a + b;
         return sum;
